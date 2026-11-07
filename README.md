@@ -18,8 +18,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=afil-pm&color=brightgreen&style=flat-square)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=afil-pm&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
 ![Streak Stats](https://streak-stats.demolab.com?user=afil-pm&theme=radical&hide_border=true)
 
 </div>
@@ -111,24 +109,6 @@ I'm a passionate developer focused on building secure, modern web applications w
 ![Graphic Design](https://img.shields.io/badge/Graphic_Design-FF61F6?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 </details>
-
----
-
-## 📈 Developer Activity
-
-<div align="center">
-
-![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=afil-pm&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afil-pm&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
 
 ## ⭐ Featured Projects
 
