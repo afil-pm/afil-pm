@@ -195,18 +195,6 @@ Problem Solving     ████████████████████
 
 </div>
 
----
-
-## 🐍 GitHub Contribution Snake
-
-<div align="center">
-
-> _To enable the contribution snake animation, set up [GitHub Readme Stats Snake](https://github.com/kyechan99/snake-contribution) with GitHub Actions._
-
-</div>
-
----
-
 ## 📫 Contact & Social Links
 
 <div align="center">
